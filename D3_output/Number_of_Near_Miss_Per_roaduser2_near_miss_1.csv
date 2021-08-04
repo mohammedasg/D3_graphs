@@ -1,0 +1,9 @@
+Road User 2 - Type,Date,Time,Safety Indicator Value (sec),Road User Arrived First,Road User 1 - Movement,Road User 1 - Type,Road User 1 - Conflict Speed,Road User 1 - Median Speed,Road User 2 - Movement,Road User 2 - Conflict Speed,Road User 2 - Median Speed
+Bicycle,159,159,159,159,159,159,159,159,159,159,159
+Bus,72,72,72,72,72,72,72,72,72,72,72
+Car,7543,7543,7543,7543,7543,7543,7543,7543,7543,7543,7543
+Motorcycle,15,15,15,15,15,15,15,15,15,15,15
+Pedestrian,1825,1825,1825,1825,1825,1825,1825,1825,1825,1825,1825
+Pickup Truck,106,106,106,106,106,106,106,106,106,106,106
+Single Unit Truck,67,67,67,67,67,67,67,67,67,67,67
+Work Van,53,53,53,53,53,53,53,53,53,53,53

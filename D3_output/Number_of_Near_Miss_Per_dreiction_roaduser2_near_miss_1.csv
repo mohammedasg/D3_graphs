@@ -1,0 +1,14 @@
+Road User 2 - Movement,Date,Time,Safety Indicator Value (sec),Road User Arrived First,Road User 1 - Movement,Road User 1 - Type,Road User 1 - Conflict Speed,Road User 1 - Median Speed,Road User 2 - Type,Road User 2 - Conflict Speed,Road User 2 - Median Speed
+East Crosswalk,422,422,422,422,422,422,422,422,422,422,422
+East Left Turn,970,970,970,970,970,970,970,970,970,970,970
+East Right Turn,13,13,13,13,13,13,13,13,13,13,13
+East Through,1433,1433,1433,1433,1433,1433,1433,1433,1433,1433,1433
+North Crosswalk,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200,1200
+South Crosswalk,135,135,135,135,135,135,135,135,135,135,135
+South Left Turn,3514,3514,3514,3514,3514,3514,3514,3514,3514,3514,3514
+South Right Turn,67,67,67,67,67,67,67,67,67,67,67
+South Through,564,564,564,564,564,564,564,564,564,564,564
+West Crosswalk,68,68,68,68,68,68,68,68,68,68,68
+West Left Turn,24,24,24,24,24,24,24,24,24,24,24
+West Right Turn,67,67,67,67,67,67,67,67,67,67,67
+West Through,1363,1363,1363,1363,1363,1363,1363,1363,1363,1363,1363
